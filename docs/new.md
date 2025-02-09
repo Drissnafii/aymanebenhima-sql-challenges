@@ -1,5 +1,5 @@
 ```mermaid
-usecaseDiagram
+usecaseDiagram;
 
 actor User
 actor Admin
