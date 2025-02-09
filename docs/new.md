@@ -1,5 +1,4 @@
 ```mermaid
-graph TD;
 flowchart LR
   classDef actor fill:#f9f,stroke:#333,stroke-width:2px
   classDef usecase fill:# pastelYellow,stroke:#333,stroke-width:2px
