@@ -1,3 +1,4 @@
+-- Active: 1738420746956@@127.0.0.1@3306@sql_practices
  SELECT MAX(OrderDate) FROM Orders;
 
 --  SELECT YEAR(MAX(OrderDate)) - 1 FROM Orders;
